@@ -33,13 +33,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.42745098039215684</real>
+		<real>0.3411764705882353</real>
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.36470588235294116</real>
+		<real>0.29411764705882354</real>
 		<key>Red Component</key>
-		<real>0.32941176470588235</real>
+		<real>0.27450980392156865</real>
 	</dict>
 	<key>Ansi 1 Color</key>
 	<dict>
@@ -72,13 +72,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.2627450980392157</real>
+		<real>0.28627450980392155</real>
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.34509803921568627</real>
+		<real>0.33725490196078434</real>
 		<key>Red Component</key>
-		<real>0.69803921568627447</real>
+		<real>0.89411764705882357</real>
 	</dict>
 	<key>Ansi 10 Color</key>
 	<dict>
@@ -111,13 +111,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.0</real>
+		<real>0.21568627450980393</real>
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.80000000000000004</real>
+		<real>0.71372549019607845</real>
 		<key>Red Component</key>
-		<real>0.0</real>
+		<real>0.23921568627450981</real>
 	</dict>
 	<key>Ansi 11 Color</key>
 	<dict>
@@ -154,9 +154,9 @@
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.70196078431372544</real>
+		<real>0.61568627450980395</real>
 		<key>Red Component</key>
-		<real>1</real>
+		<real>0.8784313725490196</real>
 	</dict>
 	<key>Ansi 12 Color</key>
 	<dict>
@@ -189,13 +189,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.93725490196078431</real>
+		<real>0.83921568627450982</real>
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.22745098039215686</real>
+		<real>0.38823529411764707</real>
 		<key>Red Component</key>
-		<real>0.15686274509803921</real>
+		<real>0.1803921568627451</real>
 	</dict>
 	<key>Ansi 13 Color</key>
 	<dict>
@@ -228,13 +228,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>1</real>
+		<real>0.81960784313725488</real>
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.0</real>
+		<real>0.12156862745098039</real>
 		<key>Red Component</key>
-		<real>1</real>
+		<real>0.82352941176470584</real>
 	</dict>
 	<key>Ansi 14 Color</key>
 	<dict>
@@ -267,13 +267,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>1</real>
+		<real>0.84705882352941175</real>
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.80000000000000004</real>
+		<real>0.69411764705882351</real>
 		<key>Red Component</key>
-		<real>0.0</real>
+		<real>0.023529411764705882</real>
 	</dict>
 	<key>Ansi 15 Color</key>
 	<dict>
@@ -349,7 +349,7 @@
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.58039215686274515</real>
+		<real>0.63137254901960782</real>
 		<key>Red Component</key>
 		<real>0.31372549019607843</real>
 	</dict>
@@ -384,13 +384,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.0</real>
+		<real>0.0039215686274509803</real>
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.70196078431372544</real>
+		<real>0.51764705882352946</real>
 		<key>Red Component</key>
-		<real>0.70196078431372544</real>
+		<real>0.75686274509803919</real>
 	</dict>
 	<key>Ansi 4 Color</key>
 	<dict>
@@ -423,13 +423,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.67843137254901964</real>
+		<real>0.73725490196078436</real>
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.30588235294117649</real>
+		<real>0.51764705882352946</real>
 		<key>Red Component</key>
-		<real>0.32549019607843138</real>
+		<real>0.0039215686274509803</real>
 	</dict>
 	<key>Ansi 5 Color</key>
 	<dict>
@@ -462,13 +462,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.70588235294117652</real>
+		<real>0.64313725490196083</real>
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.32941176470588235</real>
+		<real>0.14901960784313725</real>
 		<key>Red Component</key>
-		<real>0.66666666666666663</real>
+		<real>0.65098039215686276</real>
 	</dict>
 	<key>Ansi 6 Color</key>
 	<dict>
@@ -505,9 +505,9 @@
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.57647058823529407</real>
+		<real>0.59215686274509804</real>
 		<key>Red Component</key>
-		<real>0.30980392156862746</real>
+		<real>0.035294117647058823</real>
 	</dict>
 	<key>Ansi 7 Color</key>
 	<dict>
@@ -618,39 +618,39 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.0</real>
+		<real>0.17647058823529413</real>
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.25098039215686274</real>
+		<real>0.29803921568627451</real>
 		<key>Red Component</key>
-		<real>1</real>
+		<real>0.94901960784313721</real>
 	</dict>
 	<key>Background Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.20392157137393951</real>
+		<real>0.20111531019210815</real>
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.17254902422428131</real>
+		<real>0.17205148935317993</real>
 		<key>Red Component</key>
-		<real>0.15686275064945221</real>
+		<real>0.15976670384407043</real>
 	</dict>
 	<key>Background Color (Dark)</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.20392156862745098</real>
+		<real>0.20111531019210815</real>
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.17254901960784313</real>
+		<real>0.17205148935317993</real>
 		<key>Red Component</key>
-		<real>0.15686274509803921</real>
+		<real>0.15976670384407043</real>
 	</dict>
 	<key>Background Color (Light)</key>
 	<dict>
@@ -771,12 +771,16 @@
 	</dict>
 	<key>Cursor Color (Light)</key>
 	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
 		<key>Blue Component</key>
-		<string>0</string>
+		<real>0.10000000000000001</real>
+		<key>Color Space</key>
+		<string>P3</string>
 		<key>Green Component</key>
-		<string>0</string>
+		<real>0.10000000000000001</real>
 		<key>Red Component</key>
-		<string>0</string>
+		<real>0.10000000000000001</real>
 	</dict>
 	<key>Cursor Guide Color</key>
 	<dict>
@@ -997,12 +1001,16 @@
 	</dict>
 	<key>Selected Text Color (Light)</key>
 	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
 		<key>Blue Component</key>
-		<string>0</string>
+		<real>0.10000000000000001</real>
+		<key>Color Space</key>
+		<string>P3</string>
 		<key>Green Component</key>
-		<string>0</string>
+		<real>0.10000000000000001</real>
 		<key>Red Component</key>
-		<string>0</string>
+		<real>0.10000000000000001</real>
 	</dict>
 	<key>Selection Color</key>
 	<dict>
@@ -1052,6 +1060,19 @@
 		<key>Red Component</key>
 		<real>0.23651492595672607</real>
 	</dict>
+	<key>Tab Color (Dark)</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.32156860828399658</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.25882357358932495</real>
+		<key>Red Component</key>
+		<real>0.23137256503105164</real>
+	</dict>
 	<key>Underline Color</key>
 	<dict>
 		<key>Alpha Component</key>
@@ -1064,6 +1085,19 @@
 		<real>0.21299803256988525</real>
 		<key>Red Component</key>
 		<real>0.43583166599273682</real>
+	</dict>
+	<key>Underline Color (Dark)</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.1969468742609024</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.1969468742609024</real>
+		<key>Red Component</key>
+		<real>0.469451904296875</real>
 	</dict>
 </dict>
 </plist>
