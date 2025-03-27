@@ -3,7 +3,7 @@
 
 Based on [One Half](https://github.com/sonph/onehalf) color scheme which is based on Atom's [One Dark](https://github.com/atom/one-dark-syntax) and [One Light](https://github.com/atom/one-light-syntax) themes.
 
-The main difference is that [One Double](https://github.com/pamburus/one-double) color scheme provides distinct bright colors.
+The main difference is that [One Double](https://github.com/pamburus/one-double) color scheme provides distinct ANSI bright colors.
 
 ## Screenshots
 
