@@ -5,12 +5,7 @@ Based on [One Half](https://github.com/sonph/onehalf) color scheme which is base
 
 ## Screenshots
 
-### Dark
-
 <p align="center"><img alt="dark" src="doc/samples/color-table-one-double-dark.svg" /></p>
-
-### Light
-
 <p align="center"><img alt="light" src="doc/samples/color-table-one-double-light.svg" /></p>
 
 ## Installation
